@@ -15,7 +15,7 @@
                                 <tr>
                                     <th>NO</th>
                                     <th>Judul</th>
-                                    <th>Pengarang</th>
+                                    <th>Penulis</th>
                                     <th>Penerbit</th>
                                     <th>Kode Buku</th>
                                     <th>Jumlah Buku</th>
